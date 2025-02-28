@@ -13,3 +13,6 @@ if uploaded_file:
         st.image(uploaded_file, caption='uploaded file', use_container_width=True)
         prediction = predict(image_path)
         st.info(f'predicted_class : {prediction}')
+
+
+
