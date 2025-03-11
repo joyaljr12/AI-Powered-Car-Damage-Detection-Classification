@@ -32,22 +32,17 @@ It classifies vehicle damages into six categories and provides an easy-to-use **
      ```bash
      python dataset.py
      ```
-4. **Dataset loading and preprocessing**  
-   - Run:  
-     ```bash
-     python dataset.py
-     ```
-5. **Train the Model**  
+4. **Train the Model**  
    - Run:  
      ```bash
      python train.py
      ```
-6. **Test the Model**  
+5. **Test the Model**  
    - Run:  
      ```bash
      python test.py
      ```
-7. **Evaluate Model Performance**  
+6. **Evaluate Model Performance**  
    - Run:  
      ```bash
      python Evaluvation.py
