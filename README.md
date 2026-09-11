@@ -11,11 +11,11 @@ It classifies vehicle damages into six categories and provides an easy-to-use **
 - Provides **real-time predictions** for damage classification.
 - Supports **six damage categories**:
   - **F_Breakage** (Front Breakage)
-  - **F_Crushed** 
-  - **F_Normal**
-  - **R_Breakage**
-  - **R_Crushed**
-  - **R_Normal**
+  - **F_Crushed** (Front Crushed)
+  - **F_Normal** (Front Normal)
+  - **R_Breakage** (Rear Breakage)
+  - **R_Crushed** (Rear crushed )
+  - **R_Normal** (Rear Normal)
 - The accuracy on the **validation set is around 80%**.
 
 ## 🏗️ How This Project Works
