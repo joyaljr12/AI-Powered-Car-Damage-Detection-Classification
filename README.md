@@ -14,7 +14,7 @@ It classifies vehicle damages into six categories and provides an easy-to-use **
   - **F_Crushed** (Front Crushed)
   - **F_Normal** (Front Normal)
   - **R_Breakage** (Rear Breakage)
-  - **R_Crushed** (Rear crushed )
+  - **R_Crushed** (Rear Crushed )
   - **R_Normal** (Rear Normal)
 - The accuracy on the **validation set is around 80%**.
 
