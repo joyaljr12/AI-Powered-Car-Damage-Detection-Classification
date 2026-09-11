@@ -10,8 +10,8 @@ It classifies vehicle damages into six categories and provides an easy-to-use **
 - Allows users to **upload images** via a **Streamlit web app**.
 - Provides **real-time predictions** for damage classification.
 - Supports **six damage categories**:
-  - **F_Breakage**
-  - **F_Crushed**
+  - **F_Breakage** (Front Breakage)
+  - **F_Crushed** 
   - **F_Normal**
   - **R_Breakage**
   - **R_Crushed**
